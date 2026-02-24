@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="memoryPool/memoryPool.vcxproj" Id="9aeb7c6f-fa93-4a1d-8599-bf2befc4b5b5" />
-</Solution>
